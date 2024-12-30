@@ -2,7 +2,7 @@
 {
   "appRedirect": {
     "status": true,
-    "redirectURL": "#"
+    "redirectURL": "amzn://apps/android?asin=B0DRSV5XXP"
   },
 
   "AdsController": {
